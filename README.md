@@ -1,3 +1,3 @@
 # santiagopeirano.github.io
 
-architect
+theme: architect
